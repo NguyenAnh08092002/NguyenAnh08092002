@@ -38,14 +38,21 @@
   </a>
 </p>
 
-## Reach me out!
+## 🌎 Connect with me:
+<p align="left">
 
-<a href="https://www.facebook.com/nguyenanh4989/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
-<a href="https://stackoverflow.com/users/17357931/ti%e1%ba%bfn" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
+<a href = "https://github.com/NguyenAnh08092002"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
+<a href = "https://www.facebook.com/nguyenanh4989/"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
+<a href = "https://phong-kaster.github.io/Portfolio/"><img src="https://img.icons8.com/fluent/48/000000/resume-website.png"/></a>
+<a href = "mailto: anhnguyen08092002@gmail.com"><img src="https://img.icons8.com/color/48/000000/apple-mail.png"/></a>
+</p>
 
 ## More social medias:
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chau-nguyen-thanh-b87224206) [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thanhchauns2) [![Codeforces Badge](https://camo.githubusercontent.com/192b05ae3de2f0d8d73c7b32767d36a88a4706a5eed3b3e139b6aa49da16731e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f6465666f726365732d3434356639643f7374796c653d666f722d7468652d6261646765266c6f676f3d436f6465666f72636573266c6f676f436f6c6f723d7768697465)](https://codeforces.com/profile/thanhchauns2) [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/736425067105353858) [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/chaunguyenthanh) [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/chaunguyenthanh7) 
 
 
+## 📊 Contribution Graph
+ 
+  [![Ngoc Anh's github activity graph](https://activity-graph.herokuapp.com/graph?username=NguyenAnh08092002&theme=redical&custom_title=Shining%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
